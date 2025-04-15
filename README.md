@@ -17,16 +17,16 @@ HTML -  Página com vídeos de cenas de doramas
         <h2>Imagens do projetos</h2>
           <p>As imagens que compõem o projeto</p>
   <figure>
-<img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/CDorama%20(1).png" alt="Dongfang Qincang e a fada Orquídea"></a>
+<img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/Euamodorama%20(1).png" alt="Dongfang Qincang e a fada Orquídea"></a>
 <figcaption>Cena do casal do dorama: O amor entre a fada e o demônio</figcaption>
    </figure>
  <figure>
-   <img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/CDorama%20(2).png" alt="Tantai Jin e Ye Xiwu"></a>
+   <img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/Euamodorama%20(2).png" alt="Tantai Jin e Ye Xiwu"></a>
     <figcaption>Cena do casal do dorama: Até o fim da lua</figcaption>
       </figure>
        <figure>
-         <img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/CDorama%20(3).png" alt="Ju He Murong e Mei Lin "></a>
- <figcaption>A cena do casal do dorama: Mate me e ame me </figcaption>
+         <img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/Euamodorama%20(2).png" alt="parte do CSS"></a>
+ <figcaption>Recorte do estilo utilizado - CSS</figcaption>
     </figure>
     </body>
     </html>
