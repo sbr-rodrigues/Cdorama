@@ -25,7 +25,7 @@ HTML -  Página com vídeos de cenas de doramas
     <figcaption>Cena do casal do dorama: Até o fim da lua</figcaption>
       </figure>
        <figure>
-         <img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/Euamodorama%20(2).png" alt="parte do CSS"></a>
+         <img src="https://raw.githubusercontent.com/sbr-rodrigues/Cdorama/refs/heads/main/Euamodorama%20(3).png" alt="parte do CSS"></a>
  <figcaption>Recorte do estilo utilizado - CSS</figcaption>
     </figure>
     </body>
